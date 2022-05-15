@@ -1,18 +1,20 @@
 package Ice;
 
-public class TextUI {
+public class TextUI extends Room {
+    private String name;
+    private int RoomNumber;
 
     public String getName()
     {
-        return null;
+        return name;
     }
     public int getRoomNumber()
     {
-        return 0;
+        return RoomNumber;
     }
     public void getRoomType()
     {
-
+        getRoomType();
     }
     public void getBookedRooms()
     {
