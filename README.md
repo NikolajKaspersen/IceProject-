@@ -13,4 +13,4 @@ Vores formål med denne opgave er at lave en mini hotel booking system.
 - Man skal kunne afbestille et værelse.
 - Man skal kunne læse, skrive og gemme data via en text fil og selve programmet kører igennem consolen.
 
-![Alt billede](https://www.tripadvisor.dk/Hotel_Review-g187525-d264506-Reviews-Hotel_Presidente-Benidorm_Costa_Blanca_Province_of_Alicante_Valencian_Country.html#/media/264506/370862676:p/?albumid=101&type=0&category=101)
+![Alt billede](https://i.imgur.com/Pc09iSA.jpg)
